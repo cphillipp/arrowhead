@@ -1,0 +1,13 @@
+global:
+  env:
+    - PLATFORM: PAGODABOX
+
+web1:
+  name: wp-web 
+  shared_writable_dirs:
+    - wp-content/uploads/
+  php_extensions:
+    - mysql
+    - apc
+    - gd 
+    - soap

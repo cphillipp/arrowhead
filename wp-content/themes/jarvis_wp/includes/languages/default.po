@@ -1,0 +1,1144 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2013-09-26 21:40+0530\n"
+"PO-Revision-Date: 2013-09-26 21:41+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: G:\\wamp\\www\\jarvis-wordpress\\wp-content\\themes"
+"\\jarvis\n"
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/archive.php:28
+msgid "Category Archive for:"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/archive.php:31
+msgid "Posts Tagged:"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/archive.php:34
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/archive.php:37
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/archive.php:40
+msgid "Archive for:"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/archive.php:43
+msgid "Author Archive:"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/archive.php:46
+msgid "Blog Archives:"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/archive.php:72
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/index.php:47
+msgid "No Posts Found"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/comments.php:14
+msgid "Responses"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/comments.php:14
+msgid "Response <span>(1)</span>"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/comments.php:14
+msgid "Responses <span>(%)</span>"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/comments.php:34
+msgid "Comments are closed."
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/comments.php:48
+msgid "Name (required)"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/comments.php:50
+msgid "E-Mail (required)"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/comments.php:52
+msgid "Website"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/comments.php:58
+msgid "Leave a reply"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/comments.php:60
+msgid "Submit comment"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/contact_section.php:7
+msgid "Please enter your name."
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/contact_section.php:14
+msgid "Please enter your email address."
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/contact_section.php:17
+msgid "You entered an invalid email address."
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/contact_section.php:26
+msgid "Please enter a message."
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/contact_section.php:147
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/functions.php:127
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/functions.php:131
+msgid "Name"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/contact_section.php:148
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/functions.php:128
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/functions.php:132
+msgid "E-mail"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/contact_section.php:149
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/functions.php:129
+msgid "Subject"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/contact_section.php:154
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/functions.php:130
+msgid "Message"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/contact_section.php:159
+msgid "Send"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/footer.php:21
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/demo.php:239
+msgid "Email"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/footer.php:24
+msgid "Aim"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/footer.php:27
+msgid "Apple"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/footer.php:30
+msgid "Behance"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/footer.php:33
+msgid "Blogger"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/footer.php:36
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/share.php:32
+msgid "Delicious"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/footer.php:39
+msgid "Deviantart"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/footer.php:42
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/share.php:27
+msgid "Digg"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/footer.php:45
+msgid "Dribbble"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/footer.php:48
+msgid "Ember"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/footer.php:51
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/share.php:7
+msgid "Facebook"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/footer.php:54
+msgid "Flickr"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/footer.php:57
+msgid "Forrst"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/footer.php:60
+msgid "Google"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/footer.php:63
+msgid "Googleplus"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/footer.php:66
+msgid "Gowalla"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/footer.php:69
+msgid "Grooveshark"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/footer.php:72
+msgid "Html5"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/footer.php:75
+msgid "Lastfm"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/footer.php:78
+msgid "Linkedin"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/footer.php:81
+msgid "Metacafe"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/footer.php:84
+msgid "Mixx"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/footer.php:87
+msgid "Netvibes"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/footer.php:90
+msgid "Paypal"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/footer.php:93
+msgid "Picasa"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/footer.php:96
+msgid "Pinterest"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/footer.php:99
+msgid "Plurk"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/footer.php:102
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/share.php:22
+msgid "Reddit"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/footer.php:105
+msgid "Rss"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/footer.php:108
+msgid "Skype"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/footer.php:111
+msgid "Stumbleupon"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/footer.php:114
+msgid "Technorati"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/footer.php:117
+msgid "Tumblr"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/footer.php:120
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/share.php:12
+msgid "Twitter"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/footer.php:123
+msgid "Vimeo"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/footer.php:126
+msgid "Wordpress"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/footer.php:129
+msgid "Yahoo"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/footer.php:132
+msgid "Yelp"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/footer.php:135
+msgid "Youtube"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/functions.php:122
+msgid "This is a required field"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/functions.php:123
+msgid "Please verify fields and try again."
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/functions.php:124
+msgid "Please enter a valid e-mail address and try again."
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/functions.php:125
+msgid "There was an error sending your email. Please try again later."
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/functions.php:126
+msgid "Thanks, we got your mail and will get back to you soon!"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/functions.php:133
+msgid "http://"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/functions.php:134
+msgid "Search"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/functions.php:258
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/functions.php:260
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/functions.php:260
+msgid "(Edit)"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/functions.php:265
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/functions.php:292
+msgid "Page"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/functions.php:292
+msgid "of"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/functions.php:293
+msgid "First"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/functions.php:294
+msgid "Previous"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/functions.php:302
+msgid "Next"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/functions.php:303
+msgid "Last"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/functions.php:318
+msgid "Read More"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/functions.php:333
+msgid "Blog Sidebar"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/functions.php:335
+msgid "These are widgets for the Blog page."
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/portfolio_section.php:78
+msgid "All"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/portfolio_section.php:135
+msgid "portfolio-item"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/searchform.php:2
+msgid "To search type and hit enter"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/single-portfolio.php:108
+msgid "Client: "
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/single-portfolio.php:110
+msgid "Tags: "
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/single-portfolio.php:113
+msgid "View Project"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/single.php:82
+msgid "About the Author"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/single.php:99
+msgid "No Post Found"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/admin/classes/class.options_machine.php:559
+msgid "Last Backup : "
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/admin/front-end/options.php:43
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/admin/front-end/options.php:67
+msgid "Save All Changes"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/admin/front-end/options.php:68
+msgid "Options Reset"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/meta-single.php:2
+msgid "Posted on "
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/meta-single.php:2
+msgid "in "
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/meta.php:1
+msgid "View all posts by"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/meta.php:2
+msgid "Written by "
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/meta.php:6
+msgid "Posted in "
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/portfolio-post-type.php:12
+msgid "Portfolio"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/portfolio-post-type.php:13
+msgid "Portfolio Item"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/portfolio-post-type.php:14
+msgid "Add New Item"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/portfolio-post-type.php:15
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/portfolio-post-type.php:17
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/portfolio-post-type.php:16
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/portfolio-post-type.php:18
+msgid "View Item"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/portfolio-post-type.php:19
+msgid "Search Portfolio"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/portfolio-post-type.php:20
+msgid "No portfolio items found"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/portfolio-post-type.php:21
+msgid "No portfolio items found in trash"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/portfolio-post-type.php:42
+msgid "Portfolio Categories"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/portfolio-post-type.php:43
+msgid "Portfolio Category"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/portfolio-post-type.php:44
+msgid "Search Portfolio Categories"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/portfolio-post-type.php:45
+msgid "Popular Portfolio Categories"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/portfolio-post-type.php:46
+msgid "All Portfolio Categories"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/portfolio-post-type.php:47
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/portfolio-post-type.php:48
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/portfolio-post-type.php:49
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/portfolio-post-type.php:50
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/portfolio-post-type.php:51
+msgid "Separate Portfolio Categories With Commas"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/portfolio-post-type.php:52
+msgid "Add or Remove Portfolio Categories"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/portfolio-post-type.php:53
+msgid "Choose From Most Used Portfolio Categories"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/portfolio-post-type.php:54
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/portfolio-post-type.php:69
+msgid "Title"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/portfolio-post-type.php:70
+msgid "Thumbnail"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/portfolio-post-type.php:71
+msgid "Author"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/portfolio-post-type.php:72
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/date-time-js-options.php:15
+msgid "Date"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/portfolio-post-type.php:96
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/portfolio-post-type.php:106
+msgid "None"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/share.php:3
+msgid "Share the Story"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/share.php:17
+msgid "LinkedIn"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/share.php:37
+msgid "Google+"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/share.php:42
+msgid "E-Mail"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/all-custom-post-types.php:20
+msgid "Personal Information"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/all-custom-post-types.php:25
+msgid "Full name"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/better-include.php:16
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/include-by-ID-or-page-template.php:8
+msgid "Meta Box Title"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/better-include.php:19
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/include-by-ID-or-page-template.php:14
+msgid "Your images"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/date-time-js-options.php:11
+msgid "Date Time Picker With JS Options"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/date-time-js-options.php:21
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/demo.php:184
+msgid "(yyyy-mm-dd)"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/date-time-js-options.php:23
+msgid "Select Date"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/date-time-js-options.php:24
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/demo.php:185
+msgid "yy-mm-dd"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/date-time-js-options.php:30
+msgid "Datetime"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/date-time-js-options.php:41
+msgid "Time"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/demo.php:34
+msgid "Standard Fields"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/demo.php:53
+msgid "Text"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/demo.php:57
+msgid "Text description"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/demo.php:60
+msgid "Default text value"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/demo.php:66
+msgid "Checkbox"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/demo.php:74
+msgid "Radio"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/demo.php:80
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/demo.php:91
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/demo.php:233
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/demo.php:278
+msgid "Label1"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/demo.php:81
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/demo.php:92
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/demo.php:234
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/demo.php:279
+msgid "Label2"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/demo.php:86
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/demo.php:273
+msgid "Select"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/demo.php:97
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/demo.php:284
+msgid "Select an Item"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/demo.php:104
+msgid "Hidden value"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/demo.php:108
+msgid "Password"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/demo.php:114
+msgid "Textarea"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/demo.php:115
+msgid "Textarea description"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/demo.php:132
+msgid "Password is required"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/demo.php:133
+msgid "Password must be at least 7 characters"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/demo.php:141
+msgid "Advanced Fields"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/demo.php:147
+msgid "Heading"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/demo.php:152
+msgid "Slider"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/demo.php:157
+msgid "$"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/demo.php:158
+msgid " USD"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/demo.php:169
+msgid "Number"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/demo.php:178
+msgid "Date picker"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/demo.php:193
+msgid "Datetime picker"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/demo.php:207
+msgid "Time picker"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/demo.php:222
+msgid "Color picker"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/demo.php:228
+msgid "Checkbox list"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/demo.php:241
+msgid "Email description"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/demo.php:247
+msgid "Range"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/demo.php:249
+msgid "Range description"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/demo.php:258
+msgid "URL"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/demo.php:260
+msgid "URL description"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/demo.php:266
+msgid "oEmbed"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/demo.php:268
+msgid "oEmbed description"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/demo.php:288
+msgid "Taxonomy"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/demo.php:302
+msgid "Posts (Pages)"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/demo.php:318
+msgid "WYSIWYG / Rich Text Editor"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/demo.php:323
+msgid "WYSIWYG default value"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/demo.php:339
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/force-delete.php:15
+msgid "File Upload"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/demo.php:345
+msgid "File Advanced Upload"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/demo.php:353
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/force-delete.php:22
+msgid "Image Upload"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/demo.php:359
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/force-delete.php:28
+msgid "Thickbox Image Upload"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/demo.php:365
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/force-delete.php:35
+msgid "Plupload Image Upload"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/demo.php:372
+msgid "Image Advanced Upload"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/force-delete.php:11
+msgid "Test Meta Box"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/map.php:9
+msgid "Google Map"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/map.php:13
+msgid "Address"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/map.php:15
+msgid "Hanoi, Vietnam"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/demo/map.php:19
+msgid "Location"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/inc/classes/meta-box.php:252
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/inc/classes/meta-box.php:426
+msgid "+"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/inc/classes/meta-box.php:448
+msgid "&#8211;"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/inc/fields/button.php:36
+msgid "Click me"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/inc/fields/file-advanced.php:23
+msgid "Select Files"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/inc/fields/file.php:19
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/inc/fields/file.php:20
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/inc/fields/file.php:70
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/inc/fields/image-advanced.php:22
+msgid "Select Images"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/inc/fields/image.php:64
+msgid "Order saved"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/inc/fields/map.php:48
+msgid "Find Address"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/inc/fields/post.php:54
+msgid "Post"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/inc/fields/post.php:68
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/metaboxes/inc/fields/taxonomy.php:40
+#, php-format
+msgid "Select a %s"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:164
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/tgm-plugin-activator.php:92
+msgid "Install Required Plugins"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:165
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/tgm-plugin-activator.php:93
+msgid "Install Plugins"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:166
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/tgm-plugin-activator.php:94
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:178
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:490
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/tgm-plugin-activator.php:106
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:179
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1846
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/tgm-plugin-activator.php:107
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:517
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1956
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1956
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/tgm-plugin-activator.php:95
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/tgm-plugin-activation/tgm-plugin-activator.php:108
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/widgets/embed.php:7
+msgid "Display Embed Video"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/widgets/embed.php:9
+msgid "RocknRolla Embed Video"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/widgets/flickr.php:7
+msgid "Display your latest Flickr Photos"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/widgets/flickr.php:9
+msgid "RocknRolla Flickr"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/widgets/flickr.php:54
+msgid "Flickr idGettr"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/widgets/portfolio.php:7
+msgid "Display your latest Portfolio"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/includes/widgets/portfolio.php:9
+msgid "RocknRolla Portfolio Posts"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/post-format/content-audio.php:17
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/post-format/content-gallery.php:50
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/post-format/content-link.php:17
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/post-format/content-quote.php:16
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/post-format/content-video.php:26
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/post-format/content.php:23
+msgid "<i class=\"icon-tasks\"></i> "
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/post-format/content-audio.php:17
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/post-format/content-gallery.php:50
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/post-format/content-link.php:17
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/post-format/content-quote.php:16
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/post-format/content-video.php:26
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/post-format/content.php:23
+msgid "<i class=\"icon-comments-alt\"></i> 0"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/post-format/content-audio.php:17
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/post-format/content-gallery.php:50
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/post-format/content-link.php:17
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/post-format/content-quote.php:16
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/post-format/content-video.php:26
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/post-format/content.php:23
+msgid "<i class=\"icon-comments-alt\"></i> 1"
+msgstr ""
+
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/post-format/content-audio.php:17
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/post-format/content-gallery.php:50
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/post-format/content-link.php:17
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/post-format/content-quote.php:16
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/post-format/content-video.php:26
+#: G:\wamp\www\jarvis-wordpress\wp-content\themes\jarvis/post-format/content.php:23
+msgid "<i class=\"icon-comments-alt\"></i> %"
+msgstr ""
