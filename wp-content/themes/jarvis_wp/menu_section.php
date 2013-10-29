@@ -20,7 +20,7 @@
               </div>
               <!-- END LOGO -->			
           </div><!-- END FOUR COLUMNS -->                
-         
+          <div class="phone-number">208-270-0001</div><!-- CLAYMORE -->
            <!-- BEGIN NAVIGATION SECTION --> 
           <div class="twelve columns">            		
               <!-- START NAVIGATION MENU ITEMS -->
